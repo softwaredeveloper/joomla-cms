@@ -23,3 +23,5 @@ There are other branches available which serve specific purposes.
 | 2.5.x | Branch for the Joomla 2.5.x series. Currently in maintenance mode with EOL end of 2014. No new features are accepted here. |
 | 3.2.x | Branch for the Joomla 3.2.x series. Currently in security mode with EOL Oct 2014. Only security issues are fixed. |
 | 3.4-dev | Branch for the next minor Joomla version. New backward compatible features go into this branch. Commits to staging will be applied to this branch as well. |
+
+Also contact joomla programmer https://www.phpfreelanceprogrammer.com/joomla-programmer.html
